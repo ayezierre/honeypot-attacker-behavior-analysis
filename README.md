@@ -98,7 +98,7 @@ The complete analysis notebook is available here:
 
 One of the clearest patterns appeared in the number of commands executed by attackers.
 
-![Number of Commands per Configuration](analysis/results-command-count(1) (1).png)
+![Number of Commands per Configuration](analysis/results-command-count(1)-(1).png)
 
 Command activity increased substantially across the experimental configurations, with environments containing more sensitive decoy information generally producing greater attacker interaction.
 
